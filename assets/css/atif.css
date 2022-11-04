@@ -1,0 +1,32 @@
+a{
+    color: violet;
+    
+  }
+  .card{
+    background-color: rgba(1, 8, 8, 0.128);
+  }
+#main img{
+  text-align: center;
+  width: 100%; 
+  height:350px ;
+  margin: 0 auto;
+  border-radius: 50px;
+  border: rgb(13, 77, 196) 5px solid;
+}
+#main   p{
+    direction: rtl;
+    font-size: larger ;
+    padding: 0px;
+    margin-right: 0px;
+    margin-left: 10px;
+    text-align: right;
+  }
+ hr{
+  margin: 10 auto;
+  color: rgb(151, 13, 13);
+  width: 50px;
+  height: 20px;
+  
+ }
+  /* Position the image container (needed to position the left and right arrows) */
+ 
